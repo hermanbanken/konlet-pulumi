@@ -1,0 +1,6 @@
+name: myapp
+runtime: go
+description: Example GCP Docker Konlet VM
+## Support prebuild:
+# options:
+#   binary: pulumi-myapp

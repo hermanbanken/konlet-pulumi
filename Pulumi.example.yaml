@@ -1,0 +1,6 @@
+encryptionsalt: v1:YsAgXUK4ZzY=:v1:NeaOI/w5XZadybgq:0GW636h4anwMR7eFqCysT49FhnusJQ==
+config:
+  docker:image: eu.gcr.io/myproject/myimage:mytag
+  gcp:project: myproject
+  gcp:region: europe-west4
+  gcp:zone: europe-west4-a
